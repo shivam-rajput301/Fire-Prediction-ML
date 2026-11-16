@@ -1,4 +1,0 @@
-model,MAE,RMSE,R2
-Last-week baseline,312.382,550.626,0.486
-Ridge Regression,284.157,486.136,0.6
-Random Forest,331.916,514.09,0.552
